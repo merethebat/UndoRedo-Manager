@@ -6,4 +6,6 @@ This Java program uses a doubly linked list to keep track of different states. U
 
 ## Run
 
-Save the file as `UndoRedoManager.java` inside the `DoubleLinkedList` package folder, then run the `UndoRedoManager` class from your IDE.
+- Save the file as `UndoRedoManager.java`
+- inside the `DoubleLinkedList` package folder
+- then run the `UndoRedoManager` class from IDE
