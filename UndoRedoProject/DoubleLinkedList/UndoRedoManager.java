@@ -1,7 +1,7 @@
 package DoubleLinkedList;
 
 // Author: Merethe Batino
-// Undo and redo practice using a doubly linked list.
+// Undo and redo practice using a double linked list.
 
 public class UndoRedoManager<T> {
 
